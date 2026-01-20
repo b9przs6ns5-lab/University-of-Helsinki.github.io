@@ -157,3 +157,4 @@ a.link:hover { text-decoration: underline; }
   font-size: 12px;
   padding: 24px 12px;
 }
+.notice { display: none !important; }
